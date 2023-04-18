@@ -1,0 +1,57 @@
+/* .crew-list {
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+    justify-content: space-evenly;
+    width: 20%;
+}
+
+.crew-list > li > .dot {
+    height: 16px;
+    width: 16px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.crew-list > li > .isActive {
+    background-color: #FFFFFF;
+} */
+
+
+/* TABLET */
+/* @media only screen and (min-width: 768px) { 
+    .crew-container {
+        text-align: center;
+    }
+    .crew-details {
+        text-align: center;
+        margin: 0 10%;
+    }
+    .crew-details > h4 {
+        margin-block: .1em;
+    }
+    .crew-details > h3 {
+        margin-block: .2em;
+    }
+    .crew-members {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .crew-img {
+        height: 65%;
+        position: absolute;
+        bottom: 0;
+        align-items: center;
+        left:0;
+        right:0;
+        margin-left:auto;
+        margin-right:auto;
+    }
+    .dot {
+        height: 14px;
+        width: 14px;
+    }
+} */

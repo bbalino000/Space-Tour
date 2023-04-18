@@ -1,0 +1,22 @@
+[
+    {
+        "text": "HOME",
+        "path": "/"
+    },
+    {
+        "text": "DESTINATION",
+        "path": "/dest"
+    },
+    {
+        "text": "CREW",
+        "path": "/crew"
+    },
+    {
+        "text": "TECHNOLOGY",
+        "path": "/tech"
+    },
+    {
+        "text": "MISSIONS",
+        "path": "/missions"
+    }
+]
