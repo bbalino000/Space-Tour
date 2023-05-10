@@ -28,7 +28,7 @@ const GlobalStyle = createGlobalStyle`
     }
     @media only screen and (min-width: 992px) {
         body {
-            background: url(${bgDesktop}) no-repeat fixed !important;
+            background: url(${bgDesktop}) no-repeat fixed;
             -webkit-background-size: cover;
             -moz-background-size: cover;
             -o-background-size: cover;
